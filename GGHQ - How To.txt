@@ -1,3 +1,5 @@
+Assuming your Documents directory exists in the default location on your system, you can follow the below steps to install liveries.
+
 Drag all of the .json files in the 'Cars' folder onto the 'DragHere' shortcut. This shortcut sends the files to:
 C:\Users\%username%\Documents\Assetto Corsa Competizione\Customs\Cars
 
