@@ -1,5 +1,5 @@
 # Inky500-S6-Liveries
-## A collection of ACC User submitted Liveries to be used in the Inky 500 Season 5.
+## A collection of ACC User submitted Liveries to be used in the Inky 500 Season 6.
 
 ######################
 #### INSTRUCTIONS ####
